@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Teste Estágio Target Sistemas">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/production/Teste Estágio Target Sistemas" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/out/production/Teste Estágio Target Sistemas" recursive="false" />
+  </library>
+</component>
